@@ -1,0 +1,8 @@
+.errmsg {
+    color: red;
+}
+
+.form-control {
+    border: none;
+    border-bottom: solid black 1px;
+}
